@@ -17,9 +17,17 @@
                 </div>
             </div>
         </div>
-        <div class="col">
-            <h1>HunterxHunter</h1>
-            <p class="text-justify"> Hunter × Hunter é uma série de mangá escrita e ilustrada por Yoshihiro Togashi. Os capítulos são serializados na revista Weekly Shōnen Jump desde 3 de março de 1998, onde são compilados e publicados em formato tankobon pela editora Shueisha, embora o mangá tenha frequentemente entrado em hiato desde 2006.
+                <div class="col">
+            <h1>Reginaldinho, Naldinho, Regi ou Reginho?</h1>
+            <p class="text-justify"> O que é o Reginaldo?
+            
+            para os cegos, é a visão
+            para a escuridão, é a luz
+            para os famintos, é o pão
+            para os enfermos, é a cura
+            se ele tem 100 fãs, eu sou um deles
+            se ele tem 1 fã, esse fã sou eu
+            se ele não tiver fãs, eu não existo.
             </p></div>
     </div>
 
